@@ -6,7 +6,7 @@ public class BotaoHelloWorld extends javax.swing.JFrame{
         initComponents();
     }
    
-    @SuppressWarnings("unchecked")
+    // @SuppressWarnings("unchecked")
 
     private void initComponents() {
 
